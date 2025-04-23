@@ -1,2 +1,0 @@
-# Grafos
-Trabalho de Vito
