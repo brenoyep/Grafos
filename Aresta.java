@@ -1,6 +1,6 @@
 public class Aresta {
-    private final No no1;  // Tornado final para imutabilidade
-    private final No no2;  // Tornado final para imutabilidade
+    private final No no1; 
+    private final No no2; 
     private final int peso;
 
     public Aresta(No no1, No no2, int peso) {
